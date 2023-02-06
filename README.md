@@ -5,27 +5,27 @@
 
 - [ ] Scarlet & Violet (Koraidon)
 - [ ] Scarlet & Violet (Miraidon)
-- [X] Crown Zenith
-- [X] Silver Tempest
-- [X] Lost Origin
+- [ ] Crown Zenith
+- [ ] Silver Tempest
+- [ ] Lost Origin
 - [ ] Pokémon GO
 - [ ] Astral Radiance
 - [ ] Brilliant Stars
-- [X] Fusion Strike
+- [ ] Fusion Strike
 - [ ] Celebrations
 - [ ] Evolving Skies (Jolteon, Flareon, Umbreon, and Leafeon)
 - [ ] Evolving Skies (Vaporeon, Espeon, Glaceon, and Sylveon)
 - [ ] Chilling Reign (Shadow Rider Calyrex)
-- [X] Chilling Reign (Ice Rider Calyrex)
-- [X] Battle Styles (Rapid Strike Urshifu)
+- [ ] Chilling Reign (Ice Rider Calyrex)
+- [ ] Battle Styles (Rapid Strike Urshifu)
 - [ ] Battle Styles (Single Strike Urshifu)
 - [ ] Shining Fates
 - [ ] Vivid Voltage
 - [ ] Champions Path
 - [ ] Darkness Ablaze
 - [ ] Rebel Clash
-- [X] Sword & Shield (Zacian)
-- [X] Sword & Shield (Zamazenta)
+- [ ] Sword & Shield (Zacian)
+- [ ] Sword & Shield (Zamazenta)
 - [ ] Cosmic Eclipse
 - [ ] Hidden Fates
 - [ ] Unified Minds
@@ -41,15 +41,15 @@
 - [ ] Shining Legends
 - [ ] Burning Shadows
 - [ ] Guardians Rising
-- [X] Sun & Moon (Solgaleo)
-- [X] Sun & Moon (Lunala)
+- [ ] Sun & Moon (Solgaleo)
+- [ ] Sun & Moon (Lunala)
 - [ ] XY Evolutions (Mega Blastoise)
 - [ ] XY Evolutions (Mega Charizard)
 - [ ] Steam Siege
 - [ ] Generations
 - [ ] Fates Collide
 - [ ] BREAKpoint
-- [ ] BREAKthrough (Mewtwo X Version)
+- [ ] BREAKthrough (Mewtwo   Version)
 - [ ] BREAKthrough (Mewtwo Y Version)
 - [ ] Ancient Origins
 - [ ] Roaring Skies
@@ -64,19 +64,19 @@
 
 - [ ] Scarlet & Violet (Koraidon)
 - [ ] Scarlet & Violet (Miraidon)
-- [X] Silver Tempest
-- [X] Lost Origin
+- [ ] Silver Tempest
+- [ ] Lost Origin
 - [ ] Pokémon GO
-- [X] Astral Radiance
-- [X] Brilliant Stars
+- [ ] Astral Radiance
+- [ ] Brilliant Stars
 - [ ] Fusion Strike
-- [X] Celebrations
-- [X] Evolving Skies (Jolteon, Flareon, Umbreon, and Leafeon)
-- [X] Evolving Skies (Vaporeon, Espeon, Glaceon, and Sylveon)
-- [X] Chilling Reign (Shadow Rider Calyrex)
+- [ ] Celebrations
+- [ ] Evolving Skies (Jolteon, Flareon, Umbreon, and Leafeon)
+- [ ] Evolving Skies (Vaporeon, Espeon, Glaceon, and Sylveon)
+- [ ] Chilling Reign (Shadow Rider Calyrex)
 - [ ] Chilling Reign (Ice Rider Calyrex)
 
 # Elite Trainer Box Plus
 
-- [X] Crown Zenith
+- [ ] Crown Zenith
 - [ ] Pokémon GO
