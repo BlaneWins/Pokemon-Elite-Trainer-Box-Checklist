@@ -3,26 +3,26 @@
 
  # Regular Pokémon Elite Trainer Boxes
 
-- [ ] Scarlet & Violet (Koraidon)
-- [ ] Scarlet & Violet (Miraidon)
+- [X] Scarlet & Violet (Koraidon)
+- [X] Scarlet & Violet (Miraidon)
 - [X] Crown Zenith
 - [X] Silver Tempest
 - [X] Lost Origin
-- [ ] Pokémon GO
-- [ ] Astral Radiance
-- [ ] Brilliant Stars
+- [X] Pokémon GO
+- [X] Astral Radiance
+- [X] Brilliant Stars
 - [X] Fusion Strike
 - [ ] Celebrations
-- [ ] Evolving Skies (Jolteon, Flareon, Umbreon, and Leafeon)
+- [X] Evolving Skies (Jolteon, Flareon, Umbreon, and Leafeon)
 - [ ] Evolving Skies (Vaporeon, Espeon, Glaceon, and Sylveon)
 - [ ] Chilling Reign (Shadow Rider Calyrex)
 - [X] Chilling Reign (Ice Rider Calyrex)
 - [X] Battle Styles (Rapid Strike Urshifu)
-- [ ] Battle Styles (Single Strike Urshifu)
+- [X] Battle Styles (Single Strike Urshifu)
 - [ ] Shining Fates
-- [ ] Vivid Voltage
+- [X] Vivid Voltage
 - [ ] Champions Path
-- [ ] Darkness Ablaze
+- [X] Darkness Ablaze
 - [ ] Rebel Clash
 - [X] Sword & Shield (Zacian)
 - [X] Sword & Shield (Zamazenta)
